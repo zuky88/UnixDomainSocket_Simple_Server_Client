@@ -1,4 +1,4 @@
-# TCP simple server
+# Unix Domain Socket simple server and client
 
 This is simple server and client by Unix Domain Socket.
 
